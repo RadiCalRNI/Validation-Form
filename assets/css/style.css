@@ -19,8 +19,8 @@ body {
 }
 .login-div {
   width: 430px;
-  height: 660px;
-  padding: 60px 35px 35px 35px;
+  height: 600px;
+  padding: 30px;
   border-radius: 40px;
   background-color: #214f8b;
   box-shadow: 13px 13px 20px #17365f, -13px -13px 20px #0b2c57;
